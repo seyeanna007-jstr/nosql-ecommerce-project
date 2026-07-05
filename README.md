@@ -75,9 +75,8 @@ Endpoints principaux :
 Toutes les routes sont protégées par un rate limiting Redis (20 requêtes/minute/IP,
 code HTTP 429 au-delà).
 
-## 5. Préparer la démo de résilience (le prof va couper un nœud MongoDB)
+## 5. Préparer la démo de résilience 
 
-C'est le point le plus important de la soutenance. Ce qu'il faut comprendre et pouvoir expliquer :
 
 1. **Pourquoi ça marche** : le driver `pymongo`, quand on lui donne une URI avec
    `?replicaSet=rs0` et la liste des 3 hôtes, sait qu'il parle à un replica set. Si le
@@ -97,12 +96,12 @@ C'est le point le plus important de la soutenance. Ce qu'il faut comprendre et p
    docker exec -it mongo2 mongosh --eval "rs.status()"   # mongo2 ou mongo3 est devenu PRIMARY
    docker start mongo1   # mongo1 revient comme SECONDARY, pas de conflit
    ```
-4. **Limite honnête à mentionner à l'oral** : il y a une courte fenêtre d'indisponibilité
+4. **Limite** : il y a une courte fenêtre d'indisponibilité
    en écriture pendant l'élection (quelques secondes) - ce n'est pas de la haute
    disponibilité à zéro interruption, c'est de la tolérance aux pannes avec bascule
    automatique, ce qui est exactement ce que demande l'énoncé.
 
-## 6. Structure des fichiers
+## 5. Structure des fichiers
 
 ```
 nosql-project/
@@ -117,10 +116,3 @@ nosql-project/
 └── README.md
 ```
 
-## 7. Ce qu'il reste à faire pour un rendu complet
-
-- [ ] Adapter le mot de passe Neo4j (`motdepasse_a_changer`) avant la démo publique
-- [ ] Écrire le rapport final (contexte, choix de modélisation, captures d'écran)
-- [ ] Enregistrer la capsule vidéo de démo (montrer le health check + la coupure de nœud)
-- [ ] Pousser le tout sur GitHub avec un historique de commits qui montre le travail
-      réparti (même seule, faites plusieurs commits progressifs plutôt qu'un seul gros commit)
