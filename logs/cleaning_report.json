@@ -1,0 +1,10 @@
+{
+  "total_lignes_lues": 101500,
+  "doublons_stricts": 1500,
+  "quantite_incoherente": 2027,
+  "prix_corrompu_ou_negatif": 1009,
+  "date_invalide": 1013,
+  "transactions_anonymes_conservees": 2020,
+  "lignes_valides_finales": 95951,
+  "lignes_rejetees_total": 5549
+}

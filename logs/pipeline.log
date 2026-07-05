@@ -1,0 +1,198 @@
+2026-07-04 10:24:10,479 [INFO] Lecture du fichier /mnt/user-data/uploads/ecommerce_raw_transactions_dirty.csv
+2026-07-04 10:24:11,938 [INFO] Rapport de nettoyage Ã©crit dans /home/claude/nosql-project/logs/cleaning_report.json
+2026-07-04 10:24:11,938 [INFO] Lignes rejetÃ©es journalisÃ©es dans /home/claude/nosql-project/logs/rejected_rows.csv
+2026-07-04 10:24:11,938 [INFO]   total_lignes_lues                        : 101500
+2026-07-04 10:24:11,938 [INFO]   doublons_stricts                         : 1500
+2026-07-04 10:24:11,938 [INFO]   quantite_incoherente                     : 2027
+2026-07-04 10:24:11,938 [INFO]   prix_corrompu_ou_negatif                 : 1009
+2026-07-04 10:24:11,938 [INFO]   date_invalide                            : 1013
+2026-07-04 10:24:11,939 [INFO]   transactions_anonymes_conservees         : 2020
+2026-07-04 10:24:11,939 [INFO]   lignes_valides_finales                   : 95951
+2026-07-04 10:24:11,939 [INFO]   lignes_rejetees_total                    : 5549
+2026-07-04 10:24:11,939 [INFO] Pipeline terminÃ©.
+2026-07-04 13:29:17,749 [INFO] Lecture du fichier chemin\vers\ecommerce_raw_transactions_dirty.csv
+2026-07-04 14:32:38,218 [INFO] Lecture du fichier C:\Users\seyea\Downloads\ecommerce_raw_transactions_dirty.csv
+2026-07-04 14:32:40,326 [INFO] Rapport de nettoyage écrit dans C:\Users\seyea\Downloads\nosql-project\logs\cleaning_report.json
+2026-07-04 14:32:40,326 [INFO] Lignes rejetées journalisées dans C:\Users\seyea\Downloads\nosql-project\logs\rejected_rows.csv
+2026-07-04 14:32:40,326 [INFO]   total_lignes_lues                        : 101500
+2026-07-04 14:32:40,326 [INFO]   doublons_stricts                         : 1500
+2026-07-04 14:32:40,326 [INFO]   quantite_incoherente                     : 2027
+2026-07-04 14:32:40,326 [INFO]   prix_corrompu_ou_negatif                 : 1009
+2026-07-04 14:32:40,326 [INFO]   date_invalide                            : 1013
+2026-07-04 14:32:40,330 [INFO]   transactions_anonymes_conservees         : 2020
+2026-07-04 14:32:40,330 [INFO]   lignes_valides_finales                   : 95951
+2026-07-04 14:32:40,330 [INFO]   lignes_rejetees_total                    : 5549
+2026-07-04 18:45:30,794 [INFO] Lecture du fichier C:\Users\seyea\Downloads\ecommerce_raw_transactions_dirty.csv
+2026-07-04 18:45:31,999 [INFO] Rapport de nettoyage écrit dans C:\Users\seyea\Downloads\nosql-project\logs\cleaning_report.json
+2026-07-04 18:45:31,999 [INFO] Lignes rejetées journalisées dans C:\Users\seyea\Downloads\nosql-project\logs\rejected_rows.csv
+2026-07-04 18:45:31,999 [INFO]   total_lignes_lues                        : 101500
+2026-07-04 18:45:31,999 [INFO]   doublons_stricts                         : 1500
+2026-07-04 18:45:31,999 [INFO]   quantite_incoherente                     : 2027
+2026-07-04 18:45:31,999 [INFO]   prix_corrompu_ou_negatif                 : 1009
+2026-07-04 18:45:31,999 [INFO]   date_invalide                            : 1013
+2026-07-04 18:45:31,999 [INFO]   transactions_anonymes_conservees         : 2020
+2026-07-04 18:45:31,999 [INFO]   lignes_valides_finales                   : 95951
+2026-07-04 18:45:31,999 [INFO]   lignes_rejetees_total                    : 5549
+2026-07-04 18:45:32,906 [INFO] MongoDB : lot 0-5000 injecté (5000 docs)
+2026-07-04 18:45:33,145 [INFO] MongoDB : lot 5000-10000 injecté (5000 docs)
+2026-07-04 18:45:33,315 [INFO] MongoDB : lot 10000-15000 injecté (5000 docs)
+2026-07-04 18:45:33,435 [INFO] MongoDB : lot 15000-20000 injecté (5000 docs)
+2026-07-04 18:45:33,557 [INFO] MongoDB : lot 20000-25000 injecté (5000 docs)
+2026-07-04 18:45:33,775 [INFO] MongoDB : lot 25000-30000 injecté (5000 docs)
+2026-07-04 18:45:33,962 [INFO] MongoDB : lot 30000-35000 injecté (5000 docs)
+2026-07-04 18:45:34,155 [INFO] MongoDB : lot 35000-40000 injecté (5000 docs)
+2026-07-04 18:45:34,391 [INFO] MongoDB : lot 40000-45000 injecté (5000 docs)
+2026-07-04 18:45:34,614 [INFO] MongoDB : lot 45000-50000 injecté (5000 docs)
+2026-07-04 18:45:34,806 [INFO] MongoDB : lot 50000-55000 injecté (5000 docs)
+2026-07-04 18:45:34,940 [INFO] MongoDB : lot 55000-60000 injecté (5000 docs)
+2026-07-04 18:45:35,069 [INFO] MongoDB : lot 60000-65000 injecté (5000 docs)
+2026-07-04 18:45:35,254 [INFO] MongoDB : lot 65000-70000 injecté (5000 docs)
+2026-07-04 18:45:35,398 [INFO] MongoDB : lot 70000-75000 injecté (5000 docs)
+2026-07-04 18:45:35,578 [INFO] MongoDB : lot 75000-80000 injecté (5000 docs)
+2026-07-04 18:45:35,782 [INFO] MongoDB : lot 80000-85000 injecté (5000 docs)
+2026-07-04 18:45:35,954 [INFO] MongoDB : lot 85000-90000 injecté (5000 docs)
+2026-07-04 18:45:36,129 [INFO] MongoDB : lot 90000-95000 injecté (5000 docs)
+2026-07-04 18:45:36,163 [INFO] MongoDB : lot 95000-95951 injecté (951 docs)
+2026-07-04 18:45:36,963 [INFO] MongoDB : 95951 documents insérés au total
+2026-07-04 18:45:47,902 [INFO] Neo4j : lot 0-5000 injecté (5000 relations)
+2026-07-04 18:45:49,059 [INFO] Neo4j : lot 5000-10000 injecté (5000 relations)
+2026-07-04 18:45:49,817 [INFO] Neo4j : lot 10000-15000 injecté (5000 relations)
+2026-07-04 18:45:50,398 [INFO] Neo4j : lot 15000-20000 injecté (5000 relations)
+2026-07-04 18:45:50,981 [INFO] Neo4j : lot 20000-25000 injecté (5000 relations)
+2026-07-04 18:45:51,481 [INFO] Neo4j : lot 25000-30000 injecté (5000 relations)
+2026-07-04 18:45:51,859 [INFO] Neo4j : lot 30000-35000 injecté (5000 relations)
+2026-07-04 18:45:52,220 [INFO] Neo4j : lot 35000-40000 injecté (5000 relations)
+2026-07-04 18:45:52,510 [INFO] Neo4j : lot 40000-45000 injecté (5000 relations)
+2026-07-04 18:45:52,808 [INFO] Neo4j : lot 45000-50000 injecté (5000 relations)
+2026-07-04 18:45:53,206 [INFO] Neo4j : lot 50000-55000 injecté (5000 relations)
+2026-07-04 18:45:53,513 [INFO] Neo4j : lot 55000-60000 injecté (5000 relations)
+2026-07-04 18:45:53,832 [INFO] Neo4j : lot 60000-65000 injecté (5000 relations)
+2026-07-04 18:45:54,161 [INFO] Neo4j : lot 65000-70000 injecté (5000 relations)
+2026-07-04 18:45:54,444 [INFO] Neo4j : lot 70000-75000 injecté (5000 relations)
+2026-07-04 18:45:54,703 [INFO] Neo4j : lot 75000-80000 injecté (5000 relations)
+2026-07-04 18:45:54,949 [INFO] Neo4j : lot 80000-85000 injecté (5000 relations)
+2026-07-04 18:45:55,192 [INFO] Neo4j : lot 85000-90000 injecté (5000 relations)
+2026-07-04 18:45:55,404 [INFO] Neo4j : lot 90000-93931 injecté (3931 relations)
+2026-07-04 18:45:55,448 [INFO] Neo4j : injection terminée (93931 relations Customer->Product)
+2026-07-04 18:45:55,480 [INFO] Pipeline terminé.
+2026-07-04 22:51:13,169 [INFO] Lecture du fichier ..\data_source.csv
+2026-07-04 22:51:14,928 [INFO] Rapport de nettoyage écrit dans C:\Users\seyea\Downloads\nosql-project\logs\cleaning_report.json
+2026-07-04 22:51:14,929 [INFO] Lignes rejetées journalisées dans C:\Users\seyea\Downloads\nosql-project\logs\rejected_rows.csv
+2026-07-04 22:51:14,929 [INFO]   total_lignes_lues                        : 101500
+2026-07-04 22:51:14,929 [INFO]   doublons_stricts                         : 1500
+2026-07-04 22:51:14,930 [INFO]   quantite_incoherente                     : 2027
+2026-07-04 22:51:14,930 [INFO]   prix_corrompu_ou_negatif                 : 1009
+2026-07-04 22:51:14,930 [INFO]   date_invalide                            : 1013
+2026-07-04 22:51:14,931 [INFO]   transactions_anonymes_conservees         : 2020
+2026-07-04 22:51:14,931 [INFO]   lignes_valides_finales                   : 95951
+2026-07-04 22:51:14,931 [INFO]   lignes_rejetees_total                    : 5549
+2026-07-04 22:53:38,077 [INFO] Lecture du fichier ..\data_source.csv
+2026-07-04 22:53:40,157 [INFO] Rapport de nettoyage écrit dans C:\Users\seyea\Downloads\nosql-project\logs\cleaning_report.json
+2026-07-04 22:53:40,157 [INFO] Lignes rejetées journalisées dans C:\Users\seyea\Downloads\nosql-project\logs\rejected_rows.csv
+2026-07-04 22:53:40,157 [INFO]   total_lignes_lues                        : 101500
+2026-07-04 22:53:40,157 [INFO]   doublons_stricts                         : 1500
+2026-07-04 22:53:40,159 [INFO]   quantite_incoherente                     : 2027
+2026-07-04 22:53:40,159 [INFO]   prix_corrompu_ou_negatif                 : 1009
+2026-07-04 22:53:40,160 [INFO]   date_invalide                            : 1013
+2026-07-04 22:53:40,160 [INFO]   transactions_anonymes_conservees         : 2020
+2026-07-04 22:53:40,160 [INFO]   lignes_valides_finales                   : 95951
+2026-07-04 22:53:40,160 [INFO]   lignes_rejetees_total                    : 5549
+2026-07-04 22:53:42,361 [INFO] MongoDB : lot 0-5000 injecté (5000 docs)
+2026-07-04 22:53:42,739 [INFO] MongoDB : lot 5000-10000 injecté (5000 docs)
+2026-07-04 22:53:43,163 [INFO] MongoDB : lot 10000-15000 injecté (5000 docs)
+2026-07-04 22:53:43,484 [INFO] MongoDB : lot 15000-20000 injecté (5000 docs)
+2026-07-04 22:53:43,829 [INFO] MongoDB : lot 20000-25000 injecté (5000 docs)
+2026-07-04 22:53:44,290 [INFO] MongoDB : lot 25000-30000 injecté (5000 docs)
+2026-07-04 22:53:44,675 [INFO] MongoDB : lot 30000-35000 injecté (5000 docs)
+2026-07-04 22:53:45,593 [INFO] MongoDB : lot 35000-40000 injecté (5000 docs)
+2026-07-04 22:53:46,099 [INFO] MongoDB : lot 40000-45000 injecté (5000 docs)
+2026-07-04 22:53:46,578 [INFO] MongoDB : lot 45000-50000 injecté (5000 docs)
+2026-07-04 22:53:46,936 [INFO] MongoDB : lot 50000-55000 injecté (5000 docs)
+2026-07-04 22:53:47,229 [INFO] MongoDB : lot 55000-60000 injecté (5000 docs)
+2026-07-04 22:53:47,547 [INFO] MongoDB : lot 60000-65000 injecté (5000 docs)
+2026-07-04 22:53:47,957 [INFO] MongoDB : lot 65000-70000 injecté (5000 docs)
+2026-07-04 22:53:48,282 [INFO] MongoDB : lot 70000-75000 injecté (5000 docs)
+2026-07-04 22:53:48,576 [INFO] MongoDB : lot 75000-80000 injecté (5000 docs)
+2026-07-04 22:53:48,884 [INFO] MongoDB : lot 80000-85000 injecté (5000 docs)
+2026-07-04 22:53:49,137 [INFO] MongoDB : lot 85000-90000 injecté (5000 docs)
+2026-07-04 22:53:49,426 [INFO] MongoDB : lot 90000-95000 injecté (5000 docs)
+2026-07-04 22:53:49,509 [INFO] MongoDB : lot 95000-95951 injecté (951 docs)
+2026-07-04 22:53:49,515 [INFO] MongoDB : 95951 documents insérés au total
+2026-07-04 22:53:52,690 [INFO] Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE CONSTRAINT IF NOT EXISTS FOR (e:Customer) REQUIRE (e.customer_id) IS UNIQUE` has no effect.} {description: `CONSTRAINT constraint_a25dbb73 FOR (e:Customer) REQUIRE (e.customer_id) IS UNIQUE` already exists.} {position: None} for query: 'CREATE CONSTRAINT IF NOT EXISTS FOR (c:Customer) REQUIRE c.customer_id IS UNIQUE'
+2026-07-04 22:53:54,342 [INFO] Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE CONSTRAINT IF NOT EXISTS FOR (e:Product) REQUIRE (e.product_id) IS UNIQUE` has no effect.} {description: `CONSTRAINT constraint_10a09833 FOR (e:Product) REQUIRE (e.product_id) IS UNIQUE` already exists.} {position: None} for query: 'CREATE CONSTRAINT IF NOT EXISTS FOR (p:Product) REQUIRE p.product_id IS UNIQUE'
+2026-07-04 22:54:08,870 [INFO] Neo4j : lot 0-5000 injecté (5000 relations)
+2026-07-04 22:54:10,588 [INFO] Neo4j : lot 5000-10000 injecté (5000 relations)
+2026-07-04 22:54:11,205 [INFO] Neo4j : lot 10000-15000 injecté (5000 relations)
+2026-07-04 22:54:11,709 [INFO] Neo4j : lot 15000-20000 injecté (5000 relations)
+2026-07-04 22:54:12,305 [INFO] Neo4j : lot 20000-25000 injecté (5000 relations)
+2026-07-04 22:54:12,699 [INFO] Neo4j : lot 25000-30000 injecté (5000 relations)
+2026-07-04 22:54:13,107 [INFO] Neo4j : lot 30000-35000 injecté (5000 relations)
+2026-07-04 22:54:13,547 [INFO] Neo4j : lot 35000-40000 injecté (5000 relations)
+2026-07-04 22:54:13,856 [INFO] Neo4j : lot 40000-45000 injecté (5000 relations)
+2026-07-04 22:54:14,197 [INFO] Neo4j : lot 45000-50000 injecté (5000 relations)
+2026-07-04 22:54:14,532 [INFO] Neo4j : lot 50000-55000 injecté (5000 relations)
+2026-07-04 22:54:14,928 [INFO] Neo4j : lot 55000-60000 injecté (5000 relations)
+2026-07-04 22:54:15,358 [INFO] Neo4j : lot 60000-65000 injecté (5000 relations)
+2026-07-04 22:54:15,667 [INFO] Neo4j : lot 65000-70000 injecté (5000 relations)
+2026-07-04 22:54:15,948 [INFO] Neo4j : lot 70000-75000 injecté (5000 relations)
+2026-07-04 22:54:16,246 [INFO] Neo4j : lot 75000-80000 injecté (5000 relations)
+2026-07-04 22:54:16,525 [INFO] Neo4j : lot 80000-85000 injecté (5000 relations)
+2026-07-04 22:54:16,752 [INFO] Neo4j : lot 85000-90000 injecté (5000 relations)
+2026-07-04 22:54:16,955 [INFO] Neo4j : lot 90000-93931 injecté (3931 relations)
+2026-07-04 22:54:17,031 [INFO] Neo4j : injection terminée (93931 relations Customer->Product)
+2026-07-04 22:54:17,062 [INFO] Pipeline terminé.
+2026-07-04 22:59:37,967 [INFO] Lecture du fichier ..\data_source.csv
+2026-07-04 22:59:39,344 [INFO] Rapport de nettoyage écrit dans C:\Users\seyea\Downloads\nosql-project\logs\cleaning_report.json
+2026-07-04 22:59:39,344 [INFO] Lignes rejetées journalisées dans C:\Users\seyea\Downloads\nosql-project\logs\rejected_rows.csv
+2026-07-04 22:59:39,344 [INFO]   total_lignes_lues                        : 101500
+2026-07-04 22:59:39,346 [INFO]   doublons_stricts                         : 1500
+2026-07-04 22:59:39,346 [INFO]   quantite_incoherente                     : 2027
+2026-07-04 22:59:39,346 [INFO]   prix_corrompu_ou_negatif                 : 1009
+2026-07-04 22:59:39,346 [INFO]   date_invalide                            : 1013
+2026-07-04 22:59:39,346 [INFO]   transactions_anonymes_conservees         : 2020
+2026-07-04 22:59:39,346 [INFO]   lignes_valides_finales                   : 95951
+2026-07-04 22:59:39,346 [INFO]   lignes_rejetees_total                    : 5549
+2026-07-04 22:59:41,719 [INFO] MongoDB : lot 0-5000 injecté (5000 docs)
+2026-07-04 22:59:42,433 [INFO] MongoDB : lot 5000-10000 injecté (5000 docs)
+2026-07-04 22:59:43,359 [INFO] MongoDB : lot 10000-15000 injecté (5000 docs)
+2026-07-04 22:59:44,060 [INFO] MongoDB : lot 15000-20000 injecté (5000 docs)
+2026-07-04 22:59:44,619 [INFO] MongoDB : lot 20000-25000 injecté (5000 docs)
+2026-07-04 22:59:45,740 [INFO] MongoDB : lot 25000-30000 injecté (5000 docs)
+2026-07-04 22:59:46,486 [INFO] MongoDB : lot 30000-35000 injecté (5000 docs)
+2026-07-04 22:59:47,112 [INFO] MongoDB : lot 35000-40000 injecté (5000 docs)
+2026-07-04 22:59:48,132 [INFO] MongoDB : lot 40000-45000 injecté (5000 docs)
+2026-07-04 22:59:48,619 [INFO] MongoDB : lot 45000-50000 injecté (5000 docs)
+2026-07-04 22:59:48,979 [INFO] MongoDB : lot 50000-55000 injecté (5000 docs)
+2026-07-04 22:59:49,543 [INFO] MongoDB : lot 55000-60000 injecté (5000 docs)
+2026-07-04 22:59:49,983 [INFO] MongoDB : lot 60000-65000 injecté (5000 docs)
+2026-07-04 22:59:50,450 [INFO] MongoDB : lot 65000-70000 injecté (5000 docs)
+2026-07-04 22:59:50,781 [INFO] MongoDB : lot 70000-75000 injecté (5000 docs)
+2026-07-04 22:59:51,092 [INFO] MongoDB : lot 75000-80000 injecté (5000 docs)
+2026-07-04 22:59:51,624 [INFO] MongoDB : lot 80000-85000 injecté (5000 docs)
+2026-07-04 22:59:52,083 [INFO] MongoDB : lot 85000-90000 injecté (5000 docs)
+2026-07-04 22:59:52,609 [INFO] MongoDB : lot 90000-95000 injecté (5000 docs)
+2026-07-04 22:59:52,724 [INFO] MongoDB : lot 95000-95951 injecté (951 docs)
+2026-07-04 22:59:52,731 [INFO] MongoDB : 95951 documents insérés au total
+2026-07-04 22:59:53,507 [INFO] Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE CONSTRAINT IF NOT EXISTS FOR (e:Customer) REQUIRE (e.customer_id) IS UNIQUE` has no effect.} {description: `CONSTRAINT constraint_a25dbb73 FOR (e:Customer) REQUIRE (e.customer_id) IS UNIQUE` already exists.} {position: None} for query: 'CREATE CONSTRAINT IF NOT EXISTS FOR (c:Customer) REQUIRE c.customer_id IS UNIQUE'
+2026-07-04 22:59:54,265 [INFO] Received notification from DBMS server: {severity: INFORMATION} {code: Neo.ClientNotification.Schema.IndexOrConstraintAlreadyExists} {category: SCHEMA} {title: `CREATE CONSTRAINT IF NOT EXISTS FOR (e:Product) REQUIRE (e.product_id) IS UNIQUE` has no effect.} {description: `CONSTRAINT constraint_10a09833 FOR (e:Product) REQUIRE (e.product_id) IS UNIQUE` already exists.} {position: None} for query: 'CREATE CONSTRAINT IF NOT EXISTS FOR (p:Product) REQUIRE p.product_id IS UNIQUE'
+2026-07-04 22:59:59,803 [INFO] Neo4j : lot 0-5000 injecté (5000 relations)
+2026-07-04 23:00:02,765 [INFO] Neo4j : lot 5000-10000 injecté (5000 relations)
+2026-07-04 23:00:03,234 [INFO] Neo4j : lot 10000-15000 injecté (5000 relations)
+2026-07-04 23:00:03,525 [INFO] Neo4j : lot 15000-20000 injecté (5000 relations)
+2026-07-04 23:00:04,071 [INFO] Neo4j : lot 20000-25000 injecté (5000 relations)
+2026-07-04 23:00:04,434 [INFO] Neo4j : lot 25000-30000 injecté (5000 relations)
+2026-07-04 23:00:04,748 [INFO] Neo4j : lot 30000-35000 injecté (5000 relations)
+2026-07-04 23:00:05,012 [INFO] Neo4j : lot 35000-40000 injecté (5000 relations)
+2026-07-04 23:00:05,527 [INFO] Neo4j : lot 40000-45000 injecté (5000 relations)
+2026-07-04 23:00:05,883 [INFO] Neo4j : lot 45000-50000 injecté (5000 relations)
+2026-07-04 23:00:06,422 [INFO] Neo4j : lot 50000-55000 injecté (5000 relations)
+2026-07-04 23:00:07,099 [INFO] Neo4j : lot 55000-60000 injecté (5000 relations)
+2026-07-04 23:00:08,007 [INFO] Neo4j : lot 60000-65000 injecté (5000 relations)
+2026-07-04 23:00:08,429 [INFO] Neo4j : lot 65000-70000 injecté (5000 relations)
+2026-07-04 23:00:09,663 [INFO] Neo4j : lot 70000-75000 injecté (5000 relations)
+2026-07-04 23:00:10,823 [INFO] Neo4j : lot 75000-80000 injecté (5000 relations)
+2026-07-04 23:00:12,001 [INFO] Neo4j : lot 80000-85000 injecté (5000 relations)
+2026-07-04 23:00:12,939 [INFO] Neo4j : lot 85000-90000 injecté (5000 relations)
+2026-07-04 23:00:14,542 [INFO] Neo4j : lot 90000-93931 injecté (3931 relations)
+2026-07-04 23:00:14,888 [INFO] Neo4j : injection terminée (93931 relations Customer->Product)
+2026-07-04 23:00:14,925 [INFO] Pipeline terminé.
